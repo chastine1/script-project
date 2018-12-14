@@ -19,3 +19,6 @@ function leTriangle() {
      alert("Not a Triangle! Please try again.");
     }
 
+    if(sideOne === '' || sideTwo === '' || sideThree === '') {
+      alert("Please enter three side lengths");
+    }
