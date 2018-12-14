@@ -7,7 +7,7 @@ function leTriangle() {
      alert("This is an equilateral Triangle");
     }
     
-    else if {else if (side1 === side2|| side2===side3|| side1===side3 )
+    else if (side1 === side2|| side2===side3|| side1===side3 )
      alert("This is an isosceles Triangle");
     }
     
@@ -18,4 +18,4 @@ function leTriangle() {
     else {
      alert("Not a Triangle! Please try again.");
     }
-    
+
