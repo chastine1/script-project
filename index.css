@@ -1,0 +1,13 @@
+body{
+    font-family: verdana;
+    background-color: #FFB6C1;
+
+}
+h1{
+    text-align:center;
+    border-bottom: 1px solid blue;
+}
+form {
+    width: 40 px;
+    float: left;
+}
