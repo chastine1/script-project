@@ -22,3 +22,41 @@ form {
     border-bottom: 150px solid #808080;
 }
 
+#Equirateral{
+    width:0px;
+    height:20px;
+    margin:200px auto;
+    position: absolute;
+    border-left: 100px solid transparent;
+    border-right:100px solid transparent;
+    border-bottom:100px solid #808080;
+}
+
+
+
+#isosceles{
+        width:0px;
+        height:0px;
+        margin:200px auto;
+        position: fixed;
+        border-left: 150px solid transparent;
+        border-right:100px solid transparent;
+        border-bottom: 100px solid rgb(255, 60, 0);
+}
+
+#scalene{
+    width:0px;
+    height:0px;
+    margin:200px auto;
+    position: relative;
+    border-left: 100px solid transparent;
+    border-right:200px solid transparent;
+    border-bottom: 150px solid blue;
+}
+
+.triangles{
+    flex-direction: column;
+    margin: 20px left;
+    flex-wrap: wrap-reverse;
+    position: fixed
+}
