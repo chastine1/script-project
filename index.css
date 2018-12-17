@@ -1,5 +1,5 @@
 body{
-    font-family: verdana;
+    font-family: Papyrus;
     background-color: #FFB6C1;
 
 }
@@ -14,11 +14,9 @@ form {
 
 
 
-#Equirateral{
+#Equilateral{
     width:0px;
     height:20px;
-    margin:200px auto;
-    position: right;
     border-left: 100px solid transparent;
     border-right:100px solid transparent;
     border-bottom:100px solid #808080;
@@ -29,8 +27,6 @@ form {
 #isosceles{
         width:0px;
         height:0px;
-        margin:200px auto;
-        
         border-left: 150px solid transparent;
         border-right:100px solid transparent;
         border-bottom: 100px solid 	#00bfff;
@@ -39,15 +35,13 @@ form {
 #scalene{
     width:0px;
     height:0px;
-    margin:200px auto;
-    position: relative;
     border-left: 100px solid transparent;
     border-right:200px solid transparent;
     border-bottom: 150px solid 	#00ff80;
 }
 
 .triangles{
-    flex-direction: column;
-    
-    
+    background-color: azure;
+    flex-flow: row;
+    display: inline-block;
 }
