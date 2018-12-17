@@ -11,3 +11,10 @@ form {
     width: 40 px;
     float: left;
 }
+
+#Equirateral{
+    width:0px;
+    border-left: 28 px solid black;
+    border-right:29px solid transparent;
+    border-bottom: 28px solid black;
+}
