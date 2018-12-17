@@ -14,7 +14,11 @@ form {
 
 #Equirateral{
     width:0px;
-    border-left: 28 px solid transparent;
-    border-right:29px solid transparent;
-    border-bottom: 28px solid #808080;
+    height:0px;
+    margin:200px auto;
+    position: absolute;
+    border-left: 100px solid transparent;
+    border-right:100px solid transparent;
+    border-bottom: 150px solid #808080;
 }
+
