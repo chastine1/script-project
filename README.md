@@ -15,7 +15,7 @@ Chastine BATAMURIZA
 
 how  to used visual studio code also styling.
 
-### BDD
+### BDD( Behavior Driven Development)
 
 | input | output      | Behavior | Description                                                                                                |
 |-------|-------------|----------|------------------------------------------------------------------------------------------------------------|
@@ -25,9 +25,11 @@ how  to used visual studio code also styling.
 
 
 
-### Technologies useds
+### Technologies used
 
-html,css,Javascript
+html language
+css and 
+Javascript
 
 ### Contact information
 
@@ -38,7 +40,12 @@ Email:batamurizashastine@gmail.com
 
 link to go on Github:https://github.com/chastine1/script-project
 
-MIT Copyright 2018
+                           
+                           
+                           
+                           
+                           
+                             MIT Copyright 2018
 
 
 

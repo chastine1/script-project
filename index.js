@@ -3,20 +3,22 @@ function leTriangle() {
     var sidetwo = document.getElementById("side2").value;
     var sidethree = document.getElementById("side3").value;
 
+    var chastine=[' this is Equilateral','this is Isosceles','this is Scalene'];
+
     if (sideone <= 0 || sidetwo <= 0 || sidethree <= 0)  {
-        alert("Please Enter Valid Sides");
+        alert("Please Enter number in those valid sides");
     }
  
     if (sideone===sidetwo && sideone===sidethree) {
-     alert("This is an equilateral Triangle");
+     alert(chastine[0]);
     }
  
     else if (sideone === sidetwo || sidetwo===sidethree|| sideone ===sidethree ){
-     alert("This is an isosceles Triangle");
+     alert(chastine[1]);
     }
  
     else if ( sideone +sidetwo >sidethree || sidetwo +sidethree >=sideone || sideone +sidethree >sidetwo ) {
-     alert("This is an scalene Triangle");
+     alert(chastine[2]);
     }
  
     
